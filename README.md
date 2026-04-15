@@ -1,12 +1,4 @@
 # 🎵 Chinook 데이터 분석 대시보드
-
-Chinook 샘플 데이터베이스(가상의 디지털 음원 판매 회사)를 활용하여 **Streamlit**으로 만든
-인터랙티브 분석 대시보드입니다. **6개의 명확한 메뉴**로 구성되어 있으며, 각 페이지는
-중복 없이 고유한 분석 관점을 제공합니다.
-
-- 💻 GitHub: https://github.com/respect0098-prog/web_site_test_project
-- 🌐 사이트 주소: *(Streamlit Cloud 배포 후 추가 예정)*
-
 ---
 
 ## 📑 메뉴 구성 (총 6개)
